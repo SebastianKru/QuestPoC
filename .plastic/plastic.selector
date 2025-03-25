@@ -1,0 +1,4 @@
+repository "autorentollPOC@cluesolo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
